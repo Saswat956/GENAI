@@ -12,7 +12,7 @@ model_id = "anthropic.claude-3-sonnet-20240229-v1:0"
 
 payload = {
     "messages": [
-        {"role": "user", "content": "Summarize the key terms of a reinsurance agreement."}
+        {"role": "user", "content": "Summarize the key terms of a ."}
     ],
     "max_tokens": 1024,
     "temperature": 0.7,
